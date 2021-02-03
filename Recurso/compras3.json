@@ -1,0 +1,126 @@
+{
+    "designacao": "Lista de compras para o confinamento 4",
+    "data": "2021-01-18",
+    "produtos": [
+        {
+            "designacao": "Leite",
+            "categoria": "Laticínios",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "kg"
+            }
+        },
+        {
+            "designacao": "Queijo",
+            "categoria": "Laticínios",
+            "quantidade": {
+                "valor": "8",
+                "unidade": "l"
+            }
+        },
+        {
+            "designacao": "Ervilhas",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "kg"
+            }
+        },
+        {
+            "designacao": "Tomate",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "5",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Alface",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "3",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Cebolas",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "10",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Alhos",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "7",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Carne picada",
+            "categoria": "Carne",
+            "quantidade": {
+                "valor": "700",
+                "unidade": "g"
+            }
+        },
+        {
+            "designacao": "Strogonoff",
+            "categoria": "Carne",
+            "quantidade": {
+                "valor": " 500 ",
+                "unidade": "g"
+            }
+        },
+        {
+            "designacao": "Bacalhau",
+            "categoria": "Peixe",
+            "quantidade": {
+                "valor": "1",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Chicharro",
+            "categoria": "Peixes",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "kg"
+            }
+        },
+        {
+            "designacao": "Frasco de mostarda",
+            "categoria": "Condimentos",
+            "quantidade": {
+                "valor": "1",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Baguete",
+            "categoria": "Padaria",
+            "quantidade": {
+                "valor": "400",
+                "unidade": "g"
+            }
+        },
+        {
+            "designacao": "Arroz",
+            "categoria": "Outros",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "Kg"
+            }
+        },
+        {
+            "designacao": "Cadernos A4",
+            "categoria": "Outros",
+            "quantidade": {
+                "valor": "6",
+                "unidade": "unidade"
+            }
+        }
+    ]
+}

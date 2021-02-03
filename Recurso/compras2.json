@@ -1,0 +1,86 @@
+{
+    "designacao": "Lista de compras para o confinamento 3",
+    "data": "2021-01-19",
+    "produtos": [
+        {
+            "designacao": "Leite",
+            "categoria": "Laticínios",
+            "quantidade": {
+                "valor": "6",
+                "unidade": "l"
+            }
+        },
+        {
+            "designacao": "Almôndegas",
+            "categoria": "Carne",
+            "quantidade": {
+                "valor": "400",
+                "unidade": "g"
+            }
+        },
+        {
+            "designacao": "Iogurtes",
+            "categoria": "Laticínios",
+            "quantidade": {
+                "valor": "8",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Pimento Vermelho",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Postas de Salmão",
+            "categoria": "Peixe",
+            "quantidade": {
+                "valor": "3",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Azeite",
+            "categoria": "Condimentos",
+            "quantidade": {
+                "valor": "1",
+                "unidade": "l"
+            }
+        },
+        {
+            "designacao": "Couve-flor",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "unidade"
+            }
+        },
+        {
+            "designacao": "Maçã",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "2",
+                "unidade": "Kg"
+            }
+        },
+        {
+            "designacao": "Pêssego",
+            "categoria": "Frutas e Legumes",
+            "quantidade": {
+                "valor": "1",
+                "unidade": " Kg"
+            }
+        },
+        {
+            "designacao": "Sal",
+            "categoria": "Outros",
+            "quantidade": {
+                "valor": "0.5",
+                "unidade": "Kg"
+            }
+        }
+    ]
+}

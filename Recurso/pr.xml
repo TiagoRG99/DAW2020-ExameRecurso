@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pr>
+    <meta>
+        <key>DAW_RECURSO_PR</key>
+        <title>Project Record do Recurso de DAW</title>
+        <bdate>03 Fevereiro 2021</bdate>
+        <edate>03 Fevereiro 2021</edate>
+        <supervisor url="http://www4.di.uminho.pt/~jcr/">José Carlos Ramalho</supervisor>
+    </meta>
+    <team>
+        <member id="pg42851">
+            <name>Tiago Rico Gonçalves</name>
+            <email>pg42851@alunos.uminho.pt</email>
+        </member>
+    </team>
+    <abstract>
+        <p>1: Estão nos ficheiros deliverables como "compras2.json" e "compras3.json"</p>
+        <p>2: Está nos ficheiros deliverables como "compras.json" o ficheiro json e fio importado para o mongoDB com o comando "mongoimport -d listaCompras -c listas --jsonArray compras.json"</p>
+        <p>4: Só faz o api/listas</p>
+        </abstract>
+    <deliverables>
+        <link url="PR.xml">Project Record</link>
+        <link url="listaCompras">Pasta dos exercícios</link>
+        <link url="compras.json">Base de dados com os 3 registos de listas de compras</link>
+        <link url="compras2.json">Registo de listas de compras</link>
+        <link url="compras3.json">Registo de listas de compras</link>
+    </deliverables>
+</pr>
